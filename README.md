@@ -1,1 +1,1 @@
-# hyre-sample
+# hyre

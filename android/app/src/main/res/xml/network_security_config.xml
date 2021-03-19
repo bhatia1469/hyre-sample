@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">142.93.217.129</domain>
+        <domain includeSubdomains="true">143.110.190.121</domain>
+        <domain includeSubdomains="true">voximplant.com</domain>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
